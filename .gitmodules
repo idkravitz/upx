@@ -2,3 +2,9 @@
     path = src/lzma-sdk
     url = https://github.com/upx/upx-lzma-sdk.git
     branch = master
+[submodule "deps/zlib"]
+	path = deps/zlib
+	url = https://github.com/madler/zlib
+[submodule "deps/ucl/ucl"]
+	path = deps/ucl/ucl
+	url = https://github.com/Distrotech/ucl

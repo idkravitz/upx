@@ -4,6 +4,8 @@
 /Makevars.global*
 /build*
 /maint*
+/deps/zlib/*
+/deps/ucl/ucl/*
 
 .depend
 GNUmakefile
